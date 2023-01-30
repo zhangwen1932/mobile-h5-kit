@@ -1,0 +1,6 @@
+{
+  "editor.defaultFormatter": "vscode.search-result",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  }
+}

@@ -1,8 +1,9 @@
 import React from 'react';
+import './style.scss';
 
 function Home(){
   return(
-    <div>Hello World</div>
+    <div className="title">Hello World</div>
   )
 }
 

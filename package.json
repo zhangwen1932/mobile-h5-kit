@@ -9,7 +9,6 @@
   "author": "Wendy",
   "license": "ISC",
   "dependencies": {
-    "weixin-js-sdk": "^1.6.0",
     "antd-mobile": "^5.22.0",
     "antd-mobile-icons": "^0.3.0",
     "classnames": "^2.2.6",
@@ -24,6 +23,7 @@
     "moment": "^2.25.3",
     "normalize.css": "^8.0.1",
     "path-to-regexp": "^6.1.0",
+    "postcss-plugin-px2rem": "^0.8.1",
     "qrcode": "^1.4.4",
     "qrcode.react": "^3.1.0",
     "qs": "^6.9.4",
@@ -34,8 +34,8 @@
     "react-intl": "^5.10.4",
     "react-router-dom": "^5.2.0",
     "react-scroll-to": "^3.0.0-beta.6",
-    "react-scrollspy": "^3.4.3"
-    
+    "react-scrollspy": "^3.4.3",
+    "weixin-js-sdk": "^1.6.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.13",
